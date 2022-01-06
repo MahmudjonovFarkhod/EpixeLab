@@ -27,6 +27,15 @@ body{
             .right{
                 display: flex;
                 align-items: center;
+                gap: 22px;
+
+                button{
+                    width: 119px;
+                    height: 49px;
+                    background: #FF6600;
+                    border-radius: 10px;
+
+                }
             }
         }
     }
