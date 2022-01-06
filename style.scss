@@ -23,6 +23,11 @@ body{
                 display: flex;
                 gap: 40px;
             }
+
+            .right{
+                display: flex;
+                align-items: center;
+            }
         }
     }
 }
