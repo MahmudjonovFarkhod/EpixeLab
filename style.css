@@ -56,5 +56,6 @@ body .section-1 header .right button {
   height: 49px;
   background: #FF6600;
   border-radius: 10px;
+  border: orange solid 2px;
 }
 /*# sourceMappingURL=style.css.map */
