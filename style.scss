@@ -45,5 +45,12 @@ body{
                 }
             }
         }
+
+        main{
+            width: 100%;
+            height: calc(100vh - 49px);
+            display: flex;
+            
+        }
     }
 }
