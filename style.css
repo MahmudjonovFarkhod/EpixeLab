@@ -68,4 +68,9 @@ body .section-1 main {
   display: -ms-flexbox;
   display: flex;
 }
+
+body .section-1 main .right .person img {
+  width: 606px;
+  height: 618.09px;
+}
 /*# sourceMappingURL=style.css.map */

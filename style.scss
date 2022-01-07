@@ -50,7 +50,12 @@ body{
             width: 100%;
             height: calc(100vh - 49px);
             display: flex;
-            
+
+            .right .person img{
+                width: 606px;
+                height: 618.09px;
+            }
+
         }
     }
 }
